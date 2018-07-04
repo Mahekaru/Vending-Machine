@@ -1,0 +1,98 @@
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\bin\Debug\Vending Machine.xml
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending_Machine.Resources.resources
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending Machine.exe
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending Machine.xml
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending Machine.pdb
+C:\Users\Mahekaru\AppData\Local\Temporary Projects\Vending Machine\obj\x86\Debug\Vending_Machine.frmVendingMachine.resources
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.xml
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.pdb
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.xml
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmVendingMachine.resources
+C:\Users\Mahekaru\documents\visual studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.Resources.resources
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.xml
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.pdb
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\bin\Debug\Vending Machine.xml
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.Resources.resources
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmVendingMachine.resources
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mahekaru\Desktop\Vending Machine\Vending Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmDebug.resources
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.manifest
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.application
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe.manifest
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.application
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.xml
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.pdb
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.manifest
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.application
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.xml
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmDebug.resources
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.Resources.resources
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmVendingMachine.resources
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe.manifest
+C:\Users\Mahekaru\Desktop\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.application
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.xml
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.pdb
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.manifest
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.application
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\bin\Debug\Vending Machine.xml
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmDebug.resources
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.Resources.resources
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmVendingMachine.resources
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe.manifest
+F:\OLD\2010 VB\VB\MJennings-FinalProject\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.application
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.vbproj.GenerateResource.Cache
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.xml
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.pdb
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.manifest
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.application
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.xml
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmDebug.resources
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.Resources.resources
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmVendingMachine.resources
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.vbproj.GenerateResource.Cache
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe.manifest
+E:\Backup\Hidden\Stuff\Other\VBBack\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.application
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.vbprojAssemblyReference.cache
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmDebug.resources
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.Resources.resources
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending_Machine.frmVendingMachine.resources
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.vbproj.GenerateResource.cache
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.vbproj.CoreCompileInputs.cache
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.xml
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.pdb
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe.manifest
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.application
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.exe
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.pdb
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Debug\Vending Machine.xml
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.exe.manifest
+E:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Debug\Vending Machine.application

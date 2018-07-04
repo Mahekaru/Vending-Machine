@@ -1,0 +1,16 @@
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Release\Vending Machine.exe.manifest
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Release\Vending Machine.application
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Release\Vending Machine.exe
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Release\Vending Machine.pdb
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\bin\Release\Vending Machine.xml
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\Vending_Machine.frmDebug.resources
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\Vending_Machine.Resources.resources
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\Vending_Machine.frmVendingMachine.resources
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\Vending Machine.exe.manifest
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\Vending Machine.application
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\Vending Machine.exe
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\Vending Machine.xml
+C:\Users\Mahekaru\Documents\Visual Studio 2010\Projects\Vending Machine\Vending Machine\obj\x86\Release\Vending Machine.pdb
